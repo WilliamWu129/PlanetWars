@@ -1,915 +1,990 @@
 INFO:root:
-Selector: Universal Spreader
+Selector: Intercept-Then-Expand
 | Action: spread_and_attack_if_possible
+| Action: counter_snipe_enemy
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Order:1 17 5.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Order:1 18 5.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Order:1 11 13.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Order:1 12 13.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Order:1 5 23.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Order:1 6 23.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Order:1 9 26.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Order:1 18 6
+DEBUG:root:Result: Action: counter_snipe_enemy -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Order:1 0 38.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:1 17 53.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:1 17 57.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:12 19 56.0
+DEBUG:root:Order:12 11 43.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Order:0 18 16.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:1 0 51.0
+DEBUG:root:Order:12 0 30.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:1 19 56.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:1 6 13.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:11 5 13.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:12 9 18.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:0 17 16.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:1 20 56.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:11 0 30.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:12 21 59.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:11 22 59.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Order:17 9 9.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:1 5 25.0
+DEBUG:root:Order:1 13 60.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:1 6 15.0
+DEBUG:root:Order:11 17 29.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:12 20 56.0
+DEBUG:root:Order:12 14 60.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:0 18 16.0
+DEBUG:root:Order:11 5 13.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:12 17 27.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:0 15 60.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:1 21 59.0
+DEBUG:root:Order:21 19 9.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:1 19 18.0
+DEBUG:root:Order:18 16 60.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:12 0 57.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:0 6 16.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:20 9 6.0
+DEBUG:root:Order:17 9 9.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:18 13 20.0
+DEBUG:root:Order:12 20 66.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:12 17 18.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:1 3 82.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:1 22 59.0
+DEBUG:root:Order:12 17 25.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:20 9 6.0
+DEBUG:root:Order:11 4 82.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:1 6 14.0
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:14 22 14.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:16 5 9.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:17 9 9.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:15 17 31.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:0 2 62.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:12 7 84.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:11 8 84.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:21 10 85.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:17 9 9.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Order:21 5 16.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:13 19 11.0
+DEBUG:root:Order:21 19 10.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:1 17 38.0
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
+DEBUG:root:Finish turn
+
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
+DEBUG:root:Executing:Action: spread_and_attack_if_possible
+DEBUG:root:Order:0 3 20.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:20 9 6.0
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:1 13 43.0
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:22 14 10.0
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:1 20 60.0
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:1 6 15.0
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:9 17 16.0
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:1 5 31.0
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:1 19 11.0
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:13 18 23.0
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Order:17 6 18.0
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Success
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Order:18 19 10.0
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Success
-DEBUG:root:Result: Selector: Universal Spreader -> Success
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 
-DEBUG:root:Executing:Selector: Universal Spreader
+DEBUG:root:Executing:Selector: Intercept-Then-Expand
 DEBUG:root:Executing:Action: spread_and_attack_if_possible
 DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
-DEBUG:root:Finish turn
-
-DEBUG:root:Executing:Selector: Universal Spreader
-DEBUG:root:Executing:Action: spread_and_attack_if_possible
-DEBUG:root:Result: Action: spread_and_attack_if_possible -> Failure
-DEBUG:root:Result: Selector: Universal Spreader -> Failure
+DEBUG:root:Executing:Action: counter_snipe_enemy
+DEBUG:root:Result: Action: counter_snipe_enemy -> Failure
+DEBUG:root:Result: Selector: Intercept-Then-Expand -> Failure
 DEBUG:root:Finish turn
 

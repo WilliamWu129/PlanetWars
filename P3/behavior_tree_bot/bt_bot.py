@@ -12,7 +12,7 @@ currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentfram
 parentdir = os.path.dirname(currentdir)
 sys.path.append(parentdir)
 
-from behavior_tree_bot.behaviors import *
+from behavior_tree_bot.behaviors import counter_snipe_enemy, spread_and_attack_if_possible
 from behavior_tree_bot.checks import *
 from behavior_tree_bot.bt_nodes import Selector, Sequence, Action, Check
 
@@ -21,10 +21,16 @@ from planet_wars import PlanetWars, finish_turn
 
 # You have to improve this tree or create an entire new one that is capable
 # of winning against all the 5 opponent bots
+
 def setup_behavior_tree():
-    root = Selector(name='Universal Spreader')
-    spread_attack_action = Action(spread_and_attack_if_possible)
-    root.child_nodes = [spread_attack_action]
+    root = Selector(name='Intercept-Then-Expand')
+    # 1. Spread/attack
+    expand_node = Action(spread_and_attack_if_possible)
+
+    # 2. Snipe any incoming captures
+    snipe_node = Action(counter_snipe_enemy)
+
+    root.child_nodes = [expand_node, snipe_node]
     logging.info('\n' + root.tree_to_string())
     return root
 
